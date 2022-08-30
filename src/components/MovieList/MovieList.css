@@ -1,0 +1,16 @@
+.movie-list {
+  /* height: auto; */
+  background-image: url('../../assets/images/bg/romance.jpg');
+  background-size: cover;
+  height: 100vh;
+}
+
+.frameImg {
+  border: 4px solid white;
+  border-radius: 10px;
+}
+
+.descText {
+  text-align: justify;
+
+}

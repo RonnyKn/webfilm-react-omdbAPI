@@ -1,0 +1,24 @@
+.myBG {
+  margin-top: -15px;
+  height: 100vh;
+  background-image: url('../../assets/images/bg/main.jpg');
+  background-size: cover;
+}
+
+/* div tulisan  gratis */
+.intro {
+  margin-top: 50px;
+  height: 250px;
+  margin-bottom: 100vh;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.title {
+  font-weight: 800;
+  font-size: 3rem;
+  letter-spacing: 4px;
+  line-height: 1;
+  text-shadow: 5px 8px black;
+}
